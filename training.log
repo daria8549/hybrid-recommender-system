@@ -1,0 +1,892 @@
+2025-04-02 14:39:09,250 - INFO - Logging initialized.
+2025-04-02 14:39:09,258 - INFO - Connected to SQLite database.
+2025-04-02 14:39:14,059 - INFO - Logging initialized.
+2025-04-02 14:39:14,063 - INFO - Connected to SQLite database.
+2025-04-02 14:39:18,909 - INFO - Logging initialized.
+2025-04-02 14:39:18,911 - INFO - Connected to SQLite database.
+2025-04-02 14:39:23,648 - INFO - Logging initialized.
+2025-04-02 14:39:23,650 - INFO - Connected to SQLite database.
+2025-04-02 14:39:29,171 - INFO - Logging initialized.
+2025-04-02 14:39:29,174 - INFO - Connected to SQLite database.
+2025-04-02 14:41:02,112 - INFO - Logging initialized.
+2025-04-02 14:41:02,113 - INFO - Connected to SQLite database.
+2025-04-02 14:41:03,104 - INFO - Data loaded from CSV files.
+2025-04-02 14:41:46,011 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 14:41:48,476 - INFO - Labels created from ratings.
+2025-04-02 14:41:48,551 - INFO - Labels merged with movie metadata.
+2025-04-02 14:41:50,692 - INFO - Best parameters: {'alpha': 0.1, 'fit_prior': True}
+2025-04-02 14:41:50,692 - INFO - Best CV score: 0.9404
+2025-04-02 14:41:50,693 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 14:41:50,927 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 14:41:51,013 - INFO - User ratings normalized.
+2025-04-02 14:41:53,770 - INFO - Item similarity matrix computed.
+2025-04-02 14:41:53,773 - INFO - Movie ID to index mapping created.
+2025-04-02 14:41:53,773 - INFO - Starting model evaluation.
+2025-04-02 14:46:24,347 - INFO - Predictions generated.
+2025-04-02 14:46:24,348 - INFO - Hybrid Model MAE: 2.0675
+2025-04-02 14:46:24,349 - INFO - Hybrid Model ROC AUC: 0.5903
+2025-04-02 14:46:24,349 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 14:46:24,366 - INFO - Database connection closed.
+2025-04-02 14:46:24,367 - INFO - Training process finished.
+2025-04-02 15:41:53,708 - INFO - Logging initialized.
+2025-04-02 15:41:53,712 - INFO - Connected to SQLite database.
+2025-04-02 15:41:54,347 - INFO - Data loaded from CSV files.
+2025-04-02 15:42:32,586 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 15:42:37,017 - INFO - Labels created from ratings.
+2025-04-02 15:42:37,119 - INFO - Labels merged with movie metadata.
+2025-04-02 15:42:38,902 - INFO - Best parameters: {'alpha': 0.05, 'fit_prior': True}
+2025-04-02 15:42:38,902 - INFO - Best CV score: 0.9404
+2025-04-02 15:42:38,903 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 15:42:39,073 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 15:42:39,131 - INFO - User ratings normalized.
+2025-04-02 15:42:41,404 - INFO - Item similarity matrix computed.
+2025-04-02 15:42:41,408 - INFO - Movie ID to index mapping created.
+2025-04-02 15:42:41,409 - INFO - Starting model evaluation.
+2025-04-02 15:46:11,843 - INFO - Predictions generated.
+2025-04-02 15:46:11,844 - INFO - Hybrid Model MAE: 2.0675
+2025-04-02 15:46:11,845 - INFO - Hybrid Model ROC AUC: 0.5903
+2025-04-02 15:46:11,845 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 15:46:11,860 - INFO - Database connection closed.
+2025-04-02 15:46:11,861 - INFO - Training process finished.
+2025-04-02 15:47:30,322 - INFO - Logging initialized.
+2025-04-02 15:47:30,324 - INFO - Connected to SQLite database.
+2025-04-02 15:47:30,995 - INFO - Data loaded from CSV files.
+2025-04-02 15:48:02,842 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 15:48:04,910 - INFO - Labels created from ratings.
+2025-04-02 15:48:04,962 - INFO - Labels merged with movie metadata.
+2025-04-02 15:48:09,740 - INFO - Best parameters: {'alpha': np.float64(0.01), 'fit_prior': True}
+2025-04-02 15:48:09,740 - INFO - Best CV score: 0.9404
+2025-04-02 15:48:09,741 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 15:48:09,866 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 15:48:09,920 - INFO - User ratings normalized.
+2025-04-02 15:48:11,919 - INFO - Item similarity matrix computed.
+2025-04-02 15:48:11,922 - INFO - Movie ID to index mapping created.
+2025-04-02 15:48:11,922 - INFO - Starting model evaluation.
+2025-04-02 15:51:16,599 - INFO - Predictions generated.
+2025-04-02 15:51:16,599 - INFO - Hybrid Model MAE: 2.0675
+2025-04-02 15:51:16,600 - INFO - Hybrid Model ROC AUC: 0.5903
+2025-04-02 15:51:16,600 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 15:51:16,614 - INFO - Database connection closed.
+2025-04-02 15:51:16,615 - INFO - Training process finished.
+2025-04-02 15:54:23,501 - INFO - Logging initialized.
+2025-04-02 15:54:23,503 - INFO - Connected to SQLite database.
+2025-04-02 15:54:24,158 - INFO - Data loaded from CSV files.
+2025-04-02 15:54:56,260 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 15:54:58,259 - INFO - Labels created from ratings.
+2025-04-02 15:54:58,311 - INFO - Labels merged with movie metadata.
+2025-04-02 15:55:03,083 - INFO - Best parameters: {'alpha': np.float64(0.008), 'fit_prior': True}
+2025-04-02 15:55:03,084 - INFO - Best CV score: 0.9404
+2025-04-02 15:55:03,084 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 15:55:03,223 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 15:55:03,288 - INFO - User ratings normalized.
+2025-04-02 15:55:05,264 - INFO - Item similarity matrix computed.
+2025-04-02 15:55:05,267 - INFO - Movie ID to index mapping created.
+2025-04-02 15:55:05,268 - INFO - Starting model evaluation.
+2025-04-02 15:58:08,560 - INFO - Predictions generated.
+2025-04-02 15:58:08,561 - INFO - Hybrid Model MAE: 2.0675
+2025-04-02 15:58:08,561 - INFO - Hybrid Model ROC AUC: 0.5903
+2025-04-02 15:58:08,561 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 15:58:08,571 - INFO - Database connection closed.
+2025-04-02 15:58:08,571 - INFO - Training process finished.
+2025-04-02 16:00:02,974 - INFO - Logging initialized.
+2025-04-02 16:00:02,977 - INFO - Connected to SQLite database.
+2025-04-02 16:00:03,597 - INFO - Data loaded from CSV files.
+2025-04-02 16:00:36,101 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:00:38,364 - INFO - Labels created from ratings.
+2025-04-02 16:00:38,414 - INFO - Labels merged with movie metadata.
+2025-04-02 16:00:43,571 - INFO - Best parameters: {'alpha': np.float64(0.001), 'fit_prior': True}
+2025-04-02 16:00:43,571 - INFO - Best CV score: 0.9404
+2025-04-02 16:00:43,572 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:00:43,734 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:00:43,808 - INFO - User ratings normalized.
+2025-04-02 16:00:45,765 - INFO - Item similarity matrix computed.
+2025-04-02 16:00:45,771 - INFO - Movie ID to index mapping created.
+2025-04-02 16:00:45,771 - INFO - Starting model evaluation.
+2025-04-02 16:03:55,459 - INFO - Predictions generated.
+2025-04-02 16:03:55,460 - INFO - Hybrid Model MAE: 2.0152
+2025-04-02 16:03:55,460 - INFO - Hybrid Model ROC AUC: 0.5991
+2025-04-02 16:03:55,460 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:03:55,470 - INFO - Database connection closed.
+2025-04-02 16:03:55,471 - INFO - Training process finished.
+2025-04-02 16:05:10,181 - INFO - Logging initialized.
+2025-04-02 16:05:10,183 - INFO - Connected to SQLite database.
+2025-04-02 16:05:10,807 - INFO - Data loaded from CSV files.
+2025-04-02 16:05:42,153 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:05:44,126 - INFO - Labels created from ratings.
+2025-04-02 16:05:44,179 - INFO - Labels merged with movie metadata.
+2025-04-02 16:05:48,762 - INFO - Best parameters: {'alpha': np.float64(0.0001), 'fit_prior': True}
+2025-04-02 16:05:48,762 - INFO - Best CV score: 0.9404
+2025-04-02 16:05:48,763 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:05:48,892 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:05:48,960 - INFO - User ratings normalized.
+2025-04-02 16:05:50,955 - INFO - Item similarity matrix computed.
+2025-04-02 16:05:50,958 - INFO - Movie ID to index mapping created.
+2025-04-02 16:05:50,958 - INFO - Starting model evaluation.
+2025-04-02 16:08:59,272 - INFO - Predictions generated.
+2025-04-02 16:08:59,273 - INFO - Hybrid Model MAE: 2.0041
+2025-04-02 16:08:59,273 - INFO - Hybrid Model ROC AUC: 0.6012
+2025-04-02 16:08:59,274 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:08:59,282 - INFO - Database connection closed.
+2025-04-02 16:08:59,283 - INFO - Training process finished.
+2025-04-02 16:11:55,728 - INFO - Logging initialized.
+2025-04-02 16:11:55,731 - INFO - Connected to SQLite database.
+2025-04-02 16:11:56,447 - INFO - Data loaded from CSV files.
+2025-04-02 16:12:27,974 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:12:30,063 - INFO - Labels created from ratings.
+2025-04-02 16:12:30,117 - INFO - Labels merged with movie metadata.
+2025-04-02 16:12:34,808 - INFO - Best parameters: {'alpha': np.float64(0.0001), 'fit_prior': True}
+2025-04-02 16:12:34,808 - INFO - Best CV score: 0.9404
+2025-04-02 16:12:34,809 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:12:34,955 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:12:35,017 - INFO - User ratings normalized.
+2025-04-02 16:12:53,584 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 16:12:53,591 - INFO - Movie ID to index mapping created.
+2025-04-02 16:12:53,592 - INFO - Starting model evaluation.
+2025-04-02 16:16:06,346 - INFO - Predictions generated.
+2025-04-02 16:16:06,347 - INFO - Hybrid Model MAE: 1.9619
+2025-04-02 16:16:06,348 - INFO - Hybrid Model ROC AUC: 0.6047
+2025-04-02 16:16:06,348 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:16:06,358 - INFO - Database connection closed.
+2025-04-02 16:16:06,359 - INFO - Training process finished.
+2025-04-02 16:18:01,641 - INFO - Logging initialized.
+2025-04-02 16:18:01,643 - INFO - Connected to SQLite database.
+2025-04-02 16:18:02,325 - INFO - Data loaded from CSV files.
+2025-04-02 16:18:31,982 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:18:33,937 - INFO - Labels created from ratings.
+2025-04-02 16:18:33,988 - INFO - Labels merged with movie metadata.
+2025-04-02 16:18:38,478 - INFO - Best parameters: {'alpha': np.float64(0.0001), 'fit_prior': True}
+2025-04-02 16:18:38,479 - INFO - Best CV score: 0.9404
+2025-04-02 16:18:38,479 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:18:38,605 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:21:25,905 - INFO - Logging initialized.
+2025-04-02 16:21:25,907 - INFO - Connected to SQLite database.
+2025-04-02 16:21:26,543 - INFO - Data loaded from CSV files.
+2025-04-02 16:21:58,572 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:22:00,589 - INFO - Labels created from ratings.
+2025-04-02 16:22:00,640 - INFO - Labels merged with movie metadata.
+2025-04-02 16:22:05,345 - INFO - Best parameters: {'alpha': np.float64(0.0001), 'fit_prior': True}
+2025-04-02 16:22:05,346 - INFO - Best CV score: 0.9404
+2025-04-02 16:22:05,346 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:22:05,465 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:24:16,310 - INFO - Logging initialized.
+2025-04-02 16:24:16,312 - INFO - Connected to SQLite database.
+2025-04-02 16:24:17,218 - INFO - Data loaded from CSV files.
+2025-04-02 16:24:48,806 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:24:52,270 - INFO - Labels created from ratings.
+2025-04-02 16:24:52,324 - INFO - Labels merged with movie metadata.
+2025-04-02 16:24:57,035 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 16:24:57,036 - INFO - Best CV score: 0.9404
+2025-04-02 16:24:57,036 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:24:57,174 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:24:57,242 - INFO - User ratings normalized.
+2025-04-02 16:25:15,449 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 16:25:15,453 - INFO - Movie ID to index mapping created.
+2025-04-02 16:25:15,453 - INFO - Starting model evaluation.
+2025-04-02 16:29:23,476 - INFO - Predictions generated.
+2025-04-02 16:29:23,477 - INFO - Hybrid Model MAE: 1.9620
+2025-04-02 16:29:23,478 - INFO - Hybrid Model ROC AUC: 0.6047
+2025-04-02 16:29:23,478 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:29:23,479 - INFO - Database connection closed.
+2025-04-02 16:29:23,479 - INFO - Training process finished.
+2025-04-02 16:29:53,627 - INFO - Logging initialized.
+2025-04-02 16:29:53,628 - INFO - Connected to SQLite database.
+2025-04-02 16:29:54,301 - INFO - Data loaded from CSV files.
+2025-04-02 16:30:27,505 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:30:29,441 - INFO - Labels created from ratings.
+2025-04-02 16:30:29,485 - INFO - Labels merged with movie metadata.
+2025-04-02 16:30:34,249 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 16:30:34,249 - INFO - Best CV score: 0.9404
+2025-04-02 16:30:34,250 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:30:34,382 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:30:34,441 - INFO - User ratings normalized.
+2025-04-02 16:30:52,814 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 16:30:52,817 - INFO - Movie ID to index mapping created.
+2025-04-02 16:30:52,818 - INFO - Starting model evaluation.
+2025-04-02 16:34:08,894 - INFO - Predictions generated.
+2025-04-02 16:34:08,894 - INFO - Hybrid Model MAE: 1.9620
+2025-04-02 16:34:08,895 - INFO - Hybrid Model ROC AUC: 0.6047
+2025-04-02 16:34:08,896 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:34:08,908 - INFO - Database connection closed.
+2025-04-02 16:34:08,909 - INFO - Training process finished.
+2025-04-02 16:34:31,321 - INFO - Logging initialized.
+2025-04-02 16:34:31,323 - INFO - Connected to SQLite database.
+2025-04-02 16:34:32,032 - INFO - Data loaded from CSV files.
+2025-04-02 16:35:05,180 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:35:07,554 - INFO - Labels created from ratings.
+2025-04-02 16:35:07,604 - INFO - Labels merged with movie metadata.
+2025-04-02 16:35:12,247 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 16:35:12,247 - INFO - Best CV score: 0.9404
+2025-04-02 16:35:12,248 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:35:12,379 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:35:12,436 - INFO - User ratings normalized.
+2025-04-02 16:35:30,975 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 16:35:30,978 - INFO - Movie ID to index mapping created.
+2025-04-02 16:35:30,978 - INFO - Starting model evaluation.
+2025-04-02 16:38:42,360 - INFO - Predictions generated.
+2025-04-02 16:38:42,361 - INFO - Hybrid Model MAE: 1.9959
+2025-04-02 16:38:42,361 - INFO - Hybrid Model ROC AUC: 0.5982
+2025-04-02 16:38:42,361 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:38:42,370 - INFO - Database connection closed.
+2025-04-02 16:38:42,371 - INFO - Training process finished.
+2025-04-02 16:42:40,247 - INFO - Logging initialized.
+2025-04-02 16:42:40,250 - INFO - Connected to SQLite database.
+2025-04-02 16:42:40,913 - INFO - Data loaded from CSV files.
+2025-04-02 16:43:15,093 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:43:17,294 - INFO - Labels created from ratings.
+2025-04-02 16:43:17,352 - INFO - Labels merged with movie metadata.
+2025-04-02 16:43:22,260 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 16:43:22,261 - INFO - Best CV score: 0.9404
+2025-04-02 16:43:22,261 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:43:22,390 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:43:22,447 - INFO - User ratings normalized.
+2025-04-02 16:43:41,050 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 16:43:41,055 - INFO - Movie ID to index mapping created.
+2025-04-02 16:43:41,055 - INFO - Starting model evaluation.
+2025-04-02 16:46:53,776 - INFO - Predictions generated.
+2025-04-02 16:46:53,777 - INFO - Hybrid Model MAE: 1.9968
+2025-04-02 16:46:53,777 - INFO - Hybrid Model ROC AUC: 0.5979
+2025-04-02 16:46:53,777 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:46:53,789 - INFO - Database connection closed.
+2025-04-02 16:46:53,789 - INFO - Training process finished.
+2025-04-02 16:47:21,420 - INFO - Logging initialized.
+2025-04-02 16:47:21,422 - INFO - Connected to SQLite database.
+2025-04-02 16:47:22,185 - INFO - Data loaded from CSV files.
+2025-04-02 16:47:54,387 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 16:47:56,574 - INFO - Labels created from ratings.
+2025-04-02 16:47:56,628 - INFO - Labels merged with movie metadata.
+2025-04-02 16:48:01,340 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 16:48:01,341 - INFO - Best CV score: 0.9404
+2025-04-02 16:48:01,342 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 16:48:01,468 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 16:48:01,527 - INFO - User ratings normalized.
+2025-04-02 16:48:19,813 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 16:48:19,816 - INFO - Movie ID to index mapping created.
+2025-04-02 16:48:19,816 - INFO - Starting model evaluation.
+2025-04-02 16:51:36,368 - INFO - Predictions generated.
+2025-04-02 16:51:36,369 - INFO - Hybrid Model MAE: 1.9968
+2025-04-02 16:51:36,369 - INFO - Hybrid Model ROC AUC: 0.5979
+2025-04-02 16:51:36,369 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 16:51:36,378 - INFO - Database connection closed.
+2025-04-02 16:51:36,379 - INFO - Training process finished.
+2025-04-02 17:05:18,191 - INFO - Logging initialized.
+2025-04-02 17:05:18,194 - INFO - Connected to SQLite database.
+2025-04-02 17:05:18,889 - INFO - Data loaded from CSV files.
+2025-04-02 17:05:56,378 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:05:58,559 - INFO - Labels created from ratings.
+2025-04-02 17:05:58,627 - INFO - Labels merged with movie metadata.
+2025-04-02 17:06:04,290 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 17:06:04,291 - INFO - Best CV score: 0.9404
+2025-04-02 17:06:04,291 - INFO - Naive Bayes classifier retrained with optimal hyperparameters. Best alpha: {best_alpha}
+2025-04-02 17:06:04,442 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:06:04,510 - INFO - User ratings normalized.
+2025-04-02 17:06:24,432 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 17:06:24,434 - INFO - Movie ID to index mapping created.
+2025-04-02 17:09:06,422 - INFO - Logging initialized.
+2025-04-02 17:09:06,424 - INFO - Connected to SQLite database.
+2025-04-02 17:09:07,191 - INFO - Data loaded from CSV files.
+2025-04-02 17:09:39,067 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:09:41,168 - INFO - Labels created from ratings.
+2025-04-02 17:09:41,216 - INFO - Labels merged with movie metadata.
+2025-04-02 17:09:45,903 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 17:09:45,903 - INFO - Best CV score: 0.9404
+2025-04-02 17:09:45,904 - INFO - Naive Bayes classifier retrained with optimal hyperparameters. Best alpha: {best_alpha}
+2025-04-02 17:09:46,027 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:09:46,081 - INFO - User ratings normalized.
+2025-04-02 17:10:04,451 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 17:10:04,454 - INFO - Movie ID to index mapping created.
+2025-04-02 17:10:04,455 - INFO - Starting model evaluation.
+2025-04-02 17:13:21,433 - INFO - Predictions generated.
+2025-04-02 17:13:21,433 - INFO - Hybrid Model MAE: 1.9968
+2025-04-02 17:13:21,433 - INFO - Hybrid Model ROC AUC: 0.5979
+2025-04-02 17:13:21,434 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:13:21,445 - INFO - Database connection closed.
+2025-04-02 17:13:21,445 - INFO - Training process finished.
+2025-04-02 17:16:54,819 - INFO - Logging initialized.
+2025-04-02 17:16:54,821 - INFO - Connected to SQLite database.
+2025-04-02 17:16:55,555 - INFO - Data loaded from CSV files.
+2025-04-02 17:17:27,002 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:17:28,999 - INFO - Labels created from ratings.
+2025-04-02 17:17:29,052 - INFO - Labels merged with movie metadata.
+2025-04-02 17:17:33,863 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 17:17:33,864 - INFO - Best CV score: 0.9404
+2025-04-02 17:17:33,864 - INFO - Naive Bayes classifier retrained with optimal hyperparameters. Best alpha: {best_alpha}
+2025-04-02 17:17:34,007 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:17:34,071 - INFO - User ratings normalized.
+2025-04-02 17:18:03,309 - INFO - Logging initialized.
+2025-04-02 17:18:03,311 - INFO - Connected to SQLite database.
+2025-04-02 17:18:03,976 - INFO - Data loaded from CSV files.
+2025-04-02 17:18:34,455 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:18:36,359 - INFO - Labels created from ratings.
+2025-04-02 17:18:36,410 - INFO - Labels merged with movie metadata.
+2025-04-02 17:18:40,941 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 17:18:40,942 - INFO - Best CV score: 0.9404
+2025-04-02 17:18:40,942 - INFO - Naive Bayes classifier retrained with optimal hyperparameters. Best alpha: {best_alpha}
+2025-04-02 17:18:41,089 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:18:41,149 - INFO - User ratings normalized.
+2025-04-02 17:20:54,583 - INFO - Logging initialized.
+2025-04-02 17:20:54,584 - INFO - Connected to SQLite database.
+2025-04-02 17:20:55,198 - INFO - Data loaded from CSV files.
+2025-04-02 17:21:28,382 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:21:31,798 - INFO - Labels created from ratings.
+2025-04-02 17:21:31,849 - INFO - Labels merged with movie metadata.
+2025-04-02 17:21:36,538 - INFO - Best parameters: {'alpha': np.float64(1e-05), 'fit_prior': True}
+2025-04-02 17:21:36,539 - INFO - Best CV score: 0.9404
+2025-04-02 17:21:36,539 - INFO - Naive Bayes classifier retrained with optimal hyperparameters. Best alpha: {best_alpha}
+2025-04-02 17:21:36,675 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:21:36,743 - INFO - User ratings normalized.
+2025-04-02 17:21:38,675 - INFO - Item similarity matrix computed.
+2025-04-02 17:21:38,679 - INFO - Movie ID to index mapping created.
+2025-04-02 17:21:38,679 - INFO - Starting model evaluation.
+2025-04-02 17:25:41,785 - INFO - Predictions generated.
+2025-04-02 17:25:41,785 - INFO - Hybrid Model MAE: 2.0536
+2025-04-02 17:25:41,785 - INFO - Hybrid Model ROC AUC: 0.5898
+2025-04-02 17:25:41,786 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:25:41,787 - INFO - Database connection closed.
+2025-04-02 17:25:41,787 - INFO - Training process finished.
+2025-04-02 17:28:11,676 - INFO - Logging initialized.
+2025-04-02 17:28:11,677 - INFO - Connected to SQLite database.
+2025-04-02 17:28:12,288 - INFO - Data loaded from CSV files.
+2025-04-02 17:28:43,391 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:28:45,337 - INFO - Labels created from ratings.
+2025-04-02 17:28:45,387 - INFO - Labels merged with movie metadata.
+2025-04-02 17:28:46,995 - INFO - Best parameters: {'alpha': 0.1, 'fit_prior': True}
+2025-04-02 17:28:46,995 - INFO - Best CV score: 0.9404
+2025-04-02 17:28:46,996 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 17:28:47,125 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:28:47,181 - INFO - User ratings normalized.
+2025-04-02 17:28:49,147 - INFO - Item similarity matrix computed.
+2025-04-02 17:28:49,150 - INFO - Movie ID to index mapping created.
+2025-04-02 17:28:49,151 - INFO - Starting model evaluation.
+2025-04-02 17:31:54,303 - INFO - Predictions generated.
+2025-04-02 17:31:54,303 - INFO - Hybrid Model MAE: 2.0626
+2025-04-02 17:31:54,303 - INFO - Hybrid Model ROC AUC: 0.5909
+2025-04-02 17:31:54,304 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:31:54,315 - INFO - Database connection closed.
+2025-04-02 17:31:54,316 - INFO - Training process finished.
+2025-04-02 17:34:07,881 - INFO - Logging initialized.
+2025-04-02 17:34:07,883 - INFO - Connected to SQLite database.
+2025-04-02 17:34:08,569 - INFO - Data loaded from CSV files.
+2025-04-02 17:34:43,296 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:34:45,389 - INFO - Labels created from ratings.
+2025-04-02 17:34:45,442 - INFO - Labels merged with movie metadata.
+2025-04-02 17:34:47,176 - INFO - Best parameters: {'alpha': 0.0001, 'fit_prior': True}
+2025-04-02 17:34:47,177 - INFO - Best CV score: 0.9404
+2025-04-02 17:34:47,177 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 17:34:47,341 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:34:47,397 - INFO - User ratings normalized.
+2025-04-02 17:34:49,567 - INFO - Item similarity matrix computed.
+2025-04-02 17:34:49,571 - INFO - Movie ID to index mapping created.
+2025-04-02 17:34:49,571 - INFO - Starting model evaluation.
+2025-04-02 17:37:56,088 - INFO - Predictions generated.
+2025-04-02 17:37:56,089 - INFO - Hybrid Model MAE: 2.0041
+2025-04-02 17:37:56,089 - INFO - Hybrid Model ROC AUC: 0.6012
+2025-04-02 17:37:56,089 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:37:56,100 - INFO - Database connection closed.
+2025-04-02 17:37:56,100 - INFO - Training process finished.
+2025-04-02 17:38:33,821 - INFO - Logging initialized.
+2025-04-02 17:38:33,823 - INFO - Connected to SQLite database.
+2025-04-02 17:38:34,456 - INFO - Data loaded from CSV files.
+2025-04-02 17:39:05,735 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:39:07,724 - INFO - Labels created from ratings.
+2025-04-02 17:39:07,771 - INFO - Labels merged with movie metadata.
+2025-04-02 17:39:09,369 - INFO - Best parameters: {'alpha': 1e-06, 'fit_prior': True}
+2025-04-02 17:39:09,370 - INFO - Best CV score: 0.9404
+2025-04-02 17:39:09,370 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 17:39:09,493 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:39:09,545 - INFO - User ratings normalized.
+2025-04-02 17:39:11,500 - INFO - Item similarity matrix computed.
+2025-04-02 17:39:11,503 - INFO - Movie ID to index mapping created.
+2025-04-02 17:39:11,503 - INFO - Starting model evaluation.
+2025-04-02 17:42:22,471 - INFO - Predictions generated.
+2025-04-02 17:42:22,471 - INFO - Hybrid Model MAE: 2.0042
+2025-04-02 17:42:22,472 - INFO - Hybrid Model ROC AUC: 0.6012
+2025-04-02 17:42:22,472 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:42:22,483 - INFO - Database connection closed.
+2025-04-02 17:42:22,484 - INFO - Training process finished.
+2025-04-02 17:43:32,142 - INFO - Logging initialized.
+2025-04-02 17:43:32,143 - INFO - Connected to SQLite database.
+2025-04-02 17:43:32,810 - INFO - Data loaded from CSV files.
+2025-04-02 17:44:04,589 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:44:06,567 - INFO - Labels created from ratings.
+2025-04-02 17:44:06,616 - INFO - Labels merged with movie metadata.
+2025-04-02 17:44:08,332 - INFO - Best parameters: {'alpha': 1e-06, 'fit_prior': True}
+2025-04-02 17:44:08,332 - INFO - Best CV score: 0.9403
+2025-04-02 17:44:08,333 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 17:44:08,468 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:44:08,524 - INFO - User ratings normalized.
+2025-04-02 17:44:10,505 - INFO - Item similarity matrix computed.
+2025-04-02 17:44:10,508 - INFO - Movie ID to index mapping created.
+2025-04-02 17:44:10,509 - INFO - Starting model evaluation.
+2025-04-02 17:47:25,154 - INFO - Predictions generated.
+2025-04-02 17:47:25,154 - INFO - Hybrid Model MAE: 1.8113
+2025-04-02 17:47:25,155 - INFO - Hybrid Model ROC AUC: 0.6303
+2025-04-02 17:47:25,155 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:47:25,166 - INFO - Database connection closed.
+2025-04-02 17:47:25,167 - INFO - Training process finished.
+2025-04-02 17:47:43,978 - INFO - Logging initialized.
+2025-04-02 17:47:43,979 - INFO - Connected to SQLite database.
+2025-04-02 17:47:44,618 - INFO - Data loaded from CSV files.
+2025-04-02 17:48:15,673 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:48:17,687 - INFO - Labels created from ratings.
+2025-04-02 17:48:17,737 - INFO - Labels merged with movie metadata.
+2025-04-02 17:48:19,480 - INFO - Best parameters: {'alpha': 1e-06, 'fit_prior': True}
+2025-04-02 17:48:19,481 - INFO - Best CV score: 0.9403
+2025-04-02 17:48:19,481 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 17:48:19,603 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:48:19,658 - INFO - User ratings normalized.
+2025-04-02 17:48:21,581 - INFO - Item similarity matrix computed.
+2025-04-02 17:48:21,583 - INFO - Movie ID to index mapping created.
+2025-04-02 17:48:21,583 - INFO - Starting model evaluation.
+2025-04-02 17:51:42,464 - INFO - Predictions generated.
+2025-04-02 17:51:42,466 - INFO - Hybrid Model MAE: 1.6912
+2025-04-02 17:51:42,466 - INFO - Hybrid Model ROC AUC: 0.6456
+2025-04-02 17:51:42,467 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:51:42,478 - INFO - Database connection closed.
+2025-04-02 17:51:42,478 - INFO - Training process finished.
+2025-04-02 17:52:11,188 - INFO - Logging initialized.
+2025-04-02 17:52:11,189 - INFO - Connected to SQLite database.
+2025-04-02 17:52:11,841 - INFO - Data loaded from CSV files.
+2025-04-02 17:52:43,359 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:52:45,386 - INFO - Labels created from ratings.
+2025-04-02 17:52:45,437 - INFO - Labels merged with movie metadata.
+2025-04-02 17:52:47,371 - INFO - Best parameters: {'alpha': 1e-06, 'fit_prior': True}
+2025-04-02 17:52:47,371 - INFO - Best CV score: 0.9401
+2025-04-02 17:52:47,372 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 17:52:47,498 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:52:47,554 - INFO - User ratings normalized.
+2025-04-02 17:52:49,528 - INFO - Item similarity matrix computed.
+2025-04-02 17:52:49,532 - INFO - Movie ID to index mapping created.
+2025-04-02 17:52:49,532 - INFO - Starting model evaluation.
+2025-04-02 17:56:31,062 - INFO - Predictions generated.
+2025-04-02 17:56:31,063 - INFO - Hybrid Model MAE: 1.4279
+2025-04-02 17:56:31,063 - INFO - Hybrid Model ROC AUC: 0.6803
+2025-04-02 17:56:31,063 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 17:56:31,074 - INFO - Database connection closed.
+2025-04-02 17:56:31,074 - INFO - Training process finished.
+2025-04-02 17:57:16,148 - INFO - Logging initialized.
+2025-04-02 17:57:16,150 - INFO - Connected to SQLite database.
+2025-04-02 17:57:16,804 - INFO - Data loaded from CSV files.
+2025-04-02 17:57:48,047 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 17:57:50,080 - INFO - Labels created from ratings.
+2025-04-02 17:57:50,129 - INFO - Labels merged with movie metadata.
+2025-04-02 17:57:52,254 - INFO - Best parameters: {'alpha': 0, 'fit_prior': True}
+2025-04-02 17:57:52,254 - INFO - Best CV score: 0.9403
+2025-04-02 17:57:52,255 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 17:57:52,387 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 17:57:52,442 - INFO - User ratings normalized.
+2025-04-02 17:57:54,382 - INFO - Item similarity matrix computed.
+2025-04-02 17:57:54,384 - INFO - Movie ID to index mapping created.
+2025-04-02 17:57:54,385 - INFO - Starting model evaluation.
+2025-04-02 18:01:31,700 - INFO - Predictions generated.
+2025-04-02 18:01:31,700 - INFO - Hybrid Model MAE: 1.4279
+2025-04-02 18:01:31,701 - INFO - Hybrid Model ROC AUC: 0.6803
+2025-04-02 18:01:31,701 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 18:01:31,710 - INFO - Database connection closed.
+2025-04-02 18:01:31,710 - INFO - Training process finished.
+2025-04-02 18:06:32,974 - INFO - Logging initialized.
+2025-04-02 18:06:32,976 - INFO - Connected to SQLite database.
+2025-04-02 18:06:33,634 - INFO - Data loaded from CSV files.
+2025-04-02 18:07:06,498 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 18:07:08,598 - INFO - Labels created from ratings.
+2025-04-02 18:07:08,651 - INFO - Labels merged with movie metadata.
+2025-04-02 18:07:10,875 - INFO - Best parameters: {'alpha': 1e-07, 'fit_prior': True}
+2025-04-02 18:07:10,876 - INFO - Best CV score: 0.9399
+2025-04-02 18:07:10,876 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 18:07:11,009 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 18:07:11,162 - INFO - User ratings normalized.
+2025-04-02 18:07:13,261 - INFO - Item similarity matrix computed.
+2025-04-02 18:07:13,266 - INFO - Movie ID to index mapping created.
+2025-04-02 18:07:13,266 - INFO - Starting model evaluation.
+2025-04-02 18:11:20,537 - INFO - Predictions generated.
+2025-04-02 18:11:20,538 - INFO - Hybrid Model MAE: 1.1015
+2025-04-02 18:11:20,538 - INFO - Hybrid Model ROC AUC: 0.7223
+2025-04-02 18:11:20,539 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 18:11:20,547 - INFO - Database connection closed.
+2025-04-02 18:11:20,547 - INFO - Training process finished.
+2025-04-02 19:06:57,208 - INFO - Logging initialized.
+2025-04-02 19:06:57,217 - INFO - Connected to SQLite database.
+2025-04-02 19:06:57,825 - INFO - Data loaded from CSV files.
+2025-04-02 19:07:33,521 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 19:07:36,436 - INFO - Labels created from ratings.
+2025-04-02 19:07:36,505 - INFO - Labels merged with movie metadata.
+2025-04-02 19:07:40,650 - INFO - Best parameters: {'alpha': 1e-07, 'fit_prior': True}
+2025-04-02 19:07:40,651 - INFO - Best CV score: 0.9399
+2025-04-02 19:07:40,652 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 19:07:40,959 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 19:07:41,040 - INFO - User ratings normalized.
+2025-04-02 19:07:43,822 - INFO - Item similarity matrix computed.
+2025-04-02 19:07:43,832 - INFO - Movie ID to index mapping created.
+2025-04-02 19:07:43,838 - INFO - Starting model evaluation.
+2025-04-02 19:12:17,300 - INFO - Predictions generated.
+2025-04-02 19:12:17,301 - INFO - Hybrid Model MAE: 1.1015
+2025-04-02 19:12:17,301 - INFO - Hybrid Model ROC AUC: 0.7223
+2025-04-02 19:12:17,301 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 19:12:17,311 - INFO - Database connection closed.
+2025-04-02 19:12:17,311 - INFO - Training process finished.
+2025-04-02 19:41:58,720 - INFO - Logging initialized.
+2025-04-02 19:41:58,729 - INFO - Connected to SQLite database.
+2025-04-02 19:41:59,509 - INFO - Data loaded from CSV files.
+2025-04-02 19:42:32,815 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 19:42:34,689 - INFO - Labels created from ratings.
+2025-04-02 19:42:34,745 - INFO - Labels merged with movie metadata.
+2025-04-02 19:42:37,056 - INFO - Best parameters: {'alpha': 1e-07, 'fit_prior': True}
+2025-04-02 19:42:37,057 - INFO - Best CV score: 0.9399
+2025-04-02 19:42:37,057 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 19:42:37,264 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 19:42:37,325 - INFO - User ratings normalized.
+2025-04-02 19:42:39,335 - INFO - Item similarity matrix computed.
+2025-04-02 19:42:39,339 - INFO - Movie ID to index mapping created.
+2025-04-02 19:42:39,340 - INFO - Starting model evaluation.
+2025-04-02 19:46:59,766 - INFO - Predictions generated.
+2025-04-02 19:46:59,766 - INFO - Hybrid Model MAE: 1.1015
+2025-04-02 19:46:59,767 - INFO - Hybrid Model ROC AUC: 0.7223
+2025-04-02 19:46:59,767 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 19:46:59,779 - INFO - Database connection closed.
+2025-04-02 19:46:59,779 - INFO - Training process finished.
+2025-04-02 19:47:07,400 - INFO - Logging initialized.
+2025-04-02 19:47:07,401 - INFO - Connected to SQLite database.
+2025-04-02 19:47:08,045 - INFO - Data loaded from CSV files.
+2025-04-02 19:47:39,738 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 19:47:41,623 - INFO - Labels created from ratings.
+2025-04-02 19:47:41,673 - INFO - Labels merged with movie metadata.
+2025-04-02 19:47:43,994 - INFO - Best parameters: {'alpha': 1e-07, 'fit_prior': True}
+2025-04-02 19:47:43,994 - INFO - Best CV score: 0.9399
+2025-04-02 19:47:43,995 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 19:47:44,125 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 19:47:44,184 - INFO - User ratings normalized.
+2025-04-02 19:47:46,119 - INFO - Item similarity matrix computed.
+2025-04-02 19:47:46,122 - INFO - Movie ID to index mapping created.
+2025-04-02 19:47:46,122 - INFO - Starting model evaluation.
+2025-04-02 19:52:01,055 - INFO - Predictions generated.
+2025-04-02 19:52:01,055 - INFO - Hybrid Model MAE: 1.1015
+2025-04-02 19:52:01,056 - INFO - Hybrid Model ROC AUC: 0.7223
+2025-04-02 19:52:01,056 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 19:52:01,066 - INFO - Database connection closed.
+2025-04-02 19:52:01,066 - INFO - Training process finished.
+2025-04-02 19:54:06,156 - INFO - Logging initialized.
+2025-04-02 19:54:06,157 - INFO - Connected to SQLite database.
+2025-04-02 19:54:06,804 - INFO - Data loaded from CSV files.
+2025-04-02 19:54:38,978 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 19:54:40,915 - INFO - Labels created from ratings.
+2025-04-02 19:54:40,963 - INFO - Labels merged with movie metadata.
+2025-04-02 19:54:43,214 - INFO - Best parameters: {'alpha': 1, 'fit_prior': True}
+2025-04-02 19:54:43,215 - INFO - Best CV score: 0.9401
+2025-04-02 19:54:43,215 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 19:54:43,360 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 19:54:43,412 - INFO - User ratings normalized.
+2025-04-02 19:54:45,385 - INFO - Item similarity matrix computed.
+2025-04-02 19:54:45,388 - INFO - Movie ID to index mapping created.
+2025-04-02 19:54:45,388 - INFO - Starting model evaluation.
+2025-04-02 19:59:01,674 - INFO - Predictions generated.
+2025-04-02 19:59:01,674 - INFO - Hybrid Model MAE: 2.0676
+2025-04-02 19:59:01,675 - INFO - Hybrid Model ROC AUC: 0.5902
+2025-04-02 19:59:01,675 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 19:59:01,683 - INFO - Database connection closed.
+2025-04-02 19:59:01,683 - INFO - Training process finished.
+2025-04-02 20:00:41,927 - INFO - Logging initialized.
+2025-04-02 20:00:41,929 - INFO - Connected to SQLite database.
+2025-04-02 20:00:42,595 - INFO - Data loaded from CSV files.
+2025-04-02 20:01:17,533 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 20:01:19,835 - INFO - Labels created from ratings.
+2025-04-02 20:01:19,892 - INFO - Labels merged with movie metadata.
+2025-04-02 20:01:22,725 - INFO - Best parameters: {'alpha': 1, 'fit_prior': True}
+2025-04-02 20:01:22,727 - INFO - Best CV score: 0.9401
+2025-04-02 20:01:22,728 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 20:01:22,872 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 20:01:22,932 - INFO - User ratings normalized.
+2025-04-02 20:01:25,186 - INFO - Item similarity matrix computed.
+2025-04-02 20:01:25,190 - INFO - Movie ID to index mapping created.
+2025-04-02 20:01:25,190 - INFO - Starting model evaluation.
+2025-04-02 20:05:43,218 - INFO - Predictions generated.
+2025-04-02 20:05:43,219 - INFO - Hybrid Model MAE: 2.0676
+2025-04-02 20:05:43,219 - INFO - Hybrid Model ROC AUC: 0.5902
+2025-04-02 20:05:43,220 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 20:05:43,231 - INFO - Database connection closed.
+2025-04-02 20:05:43,232 - INFO - Training process finished.
+2025-04-02 20:29:01,960 - INFO - Logging initialized.
+2025-04-02 20:29:01,962 - INFO - Connected to SQLite database.
+2025-04-02 20:29:02,796 - INFO - Data loaded from CSV files.
+2025-04-02 20:29:41,771 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 20:29:44,404 - INFO - Labels created from ratings.
+2025-04-02 20:29:44,473 - INFO - Labels merged with movie metadata.
+2025-04-02 20:29:47,888 - INFO - Best parameters: {'alpha': 1e-09, 'fit_prior': True}
+2025-04-02 20:29:47,889 - INFO - Best CV score: 0.9399
+2025-04-02 20:29:47,889 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 20:29:48,110 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 20:29:48,188 - INFO - User ratings normalized.
+2025-04-02 20:29:50,472 - INFO - Item similarity matrix computed.
+2025-04-02 20:29:50,475 - INFO - Movie ID to index mapping created.
+2025-04-02 20:29:50,476 - INFO - Starting model evaluation.
+2025-04-02 20:35:57,269 - INFO - Predictions generated.
+2025-04-02 20:35:57,269 - INFO - Hybrid Model MAE: 1.1015
+2025-04-02 20:35:57,270 - INFO - Hybrid Model ROC AUC: 0.7223
+2025-04-02 20:35:57,270 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 20:35:57,284 - INFO - Database connection closed.
+2025-04-02 20:35:57,285 - INFO - Training process finished.
+2025-04-02 20:37:04,066 - INFO - Logging initialized.
+2025-04-02 20:37:04,068 - INFO - Connected to SQLite database.
+2025-04-02 20:37:04,992 - INFO - Data loaded from CSV files.
+2025-04-02 20:37:43,463 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 20:37:45,791 - INFO - Labels created from ratings.
+2025-04-02 20:37:45,861 - INFO - Labels merged with movie metadata.
+2025-04-02 20:37:48,927 - INFO - Best parameters: {'alpha': 1.0, 'fit_prior': True}
+2025-04-02 20:37:48,928 - INFO - Best CV score: 0.9401
+2025-04-02 20:37:48,928 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 20:37:49,109 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 20:37:49,482 - INFO - User ratings normalized using mean and standard deviation.
+2025-04-02 20:37:51,708 - INFO - Item similarity matrix computed.
+2025-04-02 20:37:51,713 - INFO - Movie ID to index mapping created.
+2025-04-02 20:37:51,714 - INFO - Starting model evaluation.
+2025-04-02 20:43:59,228 - INFO - Predictions generated.
+2025-04-02 20:43:59,229 - INFO - Hybrid Model MAE: 2.1338
+2025-04-02 20:43:59,230 - INFO - Hybrid Model ROC AUC: 0.5789
+2025-04-02 20:43:59,230 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 20:43:59,245 - INFO - Database connection closed.
+2025-04-02 20:43:59,246 - INFO - Training process finished.
+2025-04-02 20:45:54,170 - INFO - Logging initialized.
+2025-04-02 20:45:54,172 - INFO - Connected to SQLite database.
+2025-04-02 20:45:55,140 - INFO - Data loaded from CSV files.
+2025-04-02 20:46:34,747 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 20:46:37,123 - INFO - Labels created from ratings.
+2025-04-02 20:46:37,187 - INFO - Labels merged with movie metadata.
+2025-04-02 20:46:40,384 - INFO - Best parameters: {'alpha': 1.0, 'fit_prior': True}
+2025-04-02 20:46:40,385 - INFO - Best CV score: 0.9401
+2025-04-02 20:46:40,385 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 20:46:40,571 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 20:46:40,978 - INFO - User ratings normalized using mean and standard deviation.
+2025-04-02 20:46:43,178 - INFO - Item similarity matrix computed.
+2025-04-02 20:46:43,184 - INFO - Movie ID to index mapping created.
+2025-04-02 20:46:43,184 - INFO - Starting model evaluation.
+2025-04-02 20:52:50,411 - INFO - Predictions generated.
+2025-04-02 20:52:50,412 - INFO - Hybrid Model MAE: 2.1338
+2025-04-02 20:52:50,412 - INFO - Hybrid Model ROC AUC: 0.5789
+2025-04-02 20:52:50,412 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 20:52:50,428 - INFO - Database connection closed.
+2025-04-02 20:52:50,428 - INFO - Training process finished.
+2025-04-02 21:08:24,784 - INFO - Logging initialized.
+2025-04-02 21:08:24,821 - INFO - Connected to SQLite database.
+2025-04-02 21:08:25,676 - INFO - Data loaded from CSV files.
+2025-04-02 21:08:52,055 - INFO - Logging initialized.
+2025-04-02 21:08:52,056 - INFO - Connected to SQLite database.
+2025-04-02 21:08:52,923 - INFO - Data loaded from CSV files.
+2025-04-02 21:09:29,524 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 21:09:31,484 - INFO - Labels created from ratings.
+2025-04-02 21:09:31,546 - INFO - Labels merged with movie metadata.
+2025-04-02 21:09:34,717 - INFO - Best parameters: {'alpha': 1.0, 'fit_prior': True}
+2025-04-02 21:09:34,718 - INFO - Best CV score: 0.9401
+2025-04-02 21:09:34,719 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 21:09:34,921 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 21:09:35,371 - INFO - User ratings normalized using mean and standard deviation.
+2025-04-02 21:09:55,382 - INFO - Item similarity matrix computed using Pearson correlation.
+2025-04-02 21:09:55,386 - INFO - Movie ID to index mapping created.
+2025-04-02 21:09:55,386 - INFO - Starting model evaluation.
+2025-04-02 21:15:59,002 - INFO - Predictions generated.
+2025-04-02 21:15:59,003 - INFO - Hybrid Model MAE: 2.1304
+2025-04-02 21:15:59,004 - INFO - Hybrid Model ROC AUC: 0.5757
+2025-04-02 21:15:59,005 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 21:15:59,021 - INFO - Database connection closed.
+2025-04-02 21:15:59,022 - INFO - Training process finished.
+2025-04-02 21:37:58,506 - INFO - Logging initialized.
+2025-04-02 21:37:58,508 - INFO - Connected to SQLite database.
+2025-04-02 21:37:59,401 - INFO - Data loaded from CSV files.
+2025-04-02 21:38:38,381 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 21:38:40,619 - INFO - Labels created from ratings.
+2025-04-02 21:38:40,694 - INFO - Labels merged with movie metadata.
+2025-04-02 21:38:43,216 - INFO - Best parameters: {'alpha': 1.0, 'fit_prior': True}
+2025-04-02 21:38:43,217 - INFO - Best CV score: 0.9402
+2025-04-02 21:38:43,217 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 21:38:43,398 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 21:38:44,103 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 21:38:44,853 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 21:38:44,859 - INFO - Movie ID to index mapping created.
+2025-04-02 21:38:44,859 - INFO - Starting model evaluation.
+2025-04-02 21:43:45,403 - INFO - Predictions generated.
+2025-04-02 21:43:45,403 - INFO - Hybrid Model MAE: 1.9889
+2025-04-02 21:43:45,404 - INFO - Hybrid Model ROC AUC: 0.5704
+2025-04-02 21:43:45,404 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 21:43:46,292 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 21:43:47,170 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 21:43:47,173 - INFO - Movie ID to index mapping created.
+2025-04-02 21:43:47,174 - INFO - Starting model evaluation.
+2025-04-02 21:49:03,240 - INFO - Predictions generated.
+2025-04-02 21:49:03,241 - INFO - Hybrid Model MAE: 1.9889
+2025-04-02 21:49:03,241 - INFO - Hybrid Model ROC AUC: 0.5704
+2025-04-02 21:49:03,241 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 21:49:03,969 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 21:49:05,038 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 21:49:05,041 - INFO - Movie ID to index mapping created.
+2025-04-02 21:49:05,041 - INFO - Starting model evaluation.
+2025-04-02 21:52:41,648 - INFO - Logging initialized.
+2025-04-02 21:52:41,650 - INFO - Connected to SQLite database.
+2025-04-02 21:52:42,535 - INFO - Data loaded from CSV files.
+2025-04-02 21:53:21,780 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 21:53:24,014 - INFO - Labels created from ratings.
+2025-04-02 21:53:24,082 - INFO - Labels merged with movie metadata.
+2025-04-02 21:53:26,647 - INFO - Best parameters: {'alpha': 1.0, 'fit_prior': True}
+2025-04-02 21:53:26,648 - INFO - Best CV score: 0.9402
+2025-04-02 21:53:26,648 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 21:53:26,854 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 21:53:27,501 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 21:53:28,279 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 21:53:28,285 - INFO - Movie ID to index mapping created.
+2025-04-02 21:53:28,286 - INFO - Starting model evaluation.
+2025-04-02 21:58:33,343 - INFO - Predictions generated.
+2025-04-02 21:58:33,344 - INFO - Hybrid Model MAE: 1.9889
+2025-04-02 21:58:33,345 - INFO - Hybrid Model ROC AUC: 0.5704
+2025-04-02 21:58:33,345 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 21:58:34,001 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 21:58:34,771 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 21:58:34,774 - INFO - Movie ID to index mapping created.
+2025-04-02 21:58:34,775 - INFO - Starting model evaluation.
+2025-04-02 22:15:11,254 - INFO - Logging initialized.
+2025-04-02 22:15:11,257 - INFO - Connected to SQLite database.
+2025-04-02 22:15:12,010 - INFO - Data loaded from CSV files.
+2025-04-02 22:15:52,337 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 22:15:54,546 - INFO - Labels created from ratings.
+2025-04-02 22:15:54,623 - INFO - Labels merged with movie metadata.
+2025-04-02 22:16:02,572 - INFO - Best parameters: {'alpha': np.float64(0.18333333333333335), 'fit_prior': True}
+2025-04-02 22:16:02,573 - INFO - Best CV score: 0.9396
+2025-04-02 22:16:02,574 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 22:16:02,764 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 22:16:03,399 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 22:16:04,169 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 22:16:04,172 - INFO - Movie ID to index mapping created.
+2025-04-02 22:16:04,173 - INFO - Starting model evaluation.
+2025-04-02 22:21:13,179 - INFO - Predictions generated.
+2025-04-02 22:21:13,180 - INFO - Hybrid Model MAE: 1.9410
+2025-04-02 22:21:13,181 - INFO - Hybrid Model ROC AUC: 0.5769
+2025-04-02 22:21:13,181 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 22:21:13,199 - INFO - Database connection closed.
+2025-04-02 22:21:13,199 - INFO - Training process finished.
+2025-04-02 22:32:15,337 - INFO - Logging initialized.
+2025-04-02 22:32:15,338 - INFO - Connected to SQLite database.
+2025-04-02 22:32:16,285 - INFO - Data loaded from CSV files.
+2025-04-02 22:34:04,224 - INFO - Logging initialized.
+2025-04-02 22:34:04,231 - INFO - Connected to SQLite database.
+2025-04-02 22:34:05,211 - INFO - Data loaded from CSV files.
+2025-04-02 22:35:25,522 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 22:35:28,325 - INFO - Labels created from ratings.
+2025-04-02 22:35:28,404 - INFO - Labels merged with movie metadata.
+2025-04-02 22:35:36,546 - INFO - Best parameters: {'alpha': np.float64(0.21666666666666667), 'fit_prior': True}
+2025-04-02 22:35:36,548 - INFO - Best CV score: 0.9398
+2025-04-02 22:35:36,548 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 22:35:36,799 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 22:35:38,045 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 22:35:39,218 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 22:35:39,224 - INFO - Movie ID to index mapping created.
+2025-04-02 22:35:39,225 - INFO - Starting model evaluation.
+2025-04-02 22:41:21,344 - INFO - Predictions generated.
+2025-04-02 22:41:21,345 - INFO - Hybrid Model MAE: 1.9637
+2025-04-02 22:41:21,345 - INFO - Hybrid Model ROC AUC: 0.5733
+2025-04-02 22:41:21,346 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 22:41:21,364 - INFO - Database connection closed.
+2025-04-02 22:41:21,365 - INFO - Training process finished.
+2025-04-02 22:44:13,479 - INFO - Logging initialized.
+2025-04-02 22:44:13,483 - INFO - Connected to SQLite database.
+2025-04-02 22:44:14,461 - INFO - Data loaded from CSV files.
+2025-04-02 22:45:35,340 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 22:45:38,466 - INFO - Labels created from ratings.
+2025-04-02 22:45:38,549 - INFO - Labels merged with movie metadata.
+2025-04-02 22:45:46,656 - INFO - Best parameters: {'alpha': np.float64(0.21666666666666667), 'fit_prior': True}
+2025-04-02 22:45:46,657 - INFO - Best CV score: 0.9398
+2025-04-02 22:45:46,658 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 22:45:46,870 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 22:45:47,345 - INFO - User ratings normalized using mean and std with shrinkage.
+2025-04-02 22:46:31,523 - INFO - Logging initialized.
+2025-04-02 22:46:31,525 - INFO - Connected to SQLite database.
+2025-04-02 22:46:32,555 - INFO - Data loaded from CSV files.
+2025-04-02 22:47:55,416 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 22:48:01,550 - INFO - Labels created from ratings.
+2025-04-02 22:48:01,673 - INFO - Labels merged with movie metadata.
+2025-04-02 22:48:12,337 - INFO - Best parameters: {'alpha': np.float64(0.21666666666666667), 'fit_prior': True}
+2025-04-02 22:48:12,338 - INFO - Best CV score: 0.9398
+2025-04-02 22:48:12,339 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 22:48:12,559 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 22:48:13,114 - INFO - User ratings normalized using mean and std with shrinkage.
+2025-04-02 22:50:42,846 - INFO - Logging initialized.
+2025-04-02 22:50:42,848 - INFO - Connected to SQLite database.
+2025-04-02 22:50:43,858 - INFO - Data loaded from CSV files.
+2025-04-02 22:52:14,787 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 22:52:20,156 - INFO - Labels created from ratings.
+2025-04-02 22:52:20,236 - INFO - Labels merged with movie metadata.
+2025-04-02 22:52:28,762 - INFO - Best parameters: {'alpha': np.float64(0.21666666666666667), 'fit_prior': True}
+2025-04-02 22:52:28,764 - INFO - Best CV score: 0.9398
+2025-04-02 22:52:28,764 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 22:52:28,967 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 22:52:29,419 - INFO - User ratings normalized using mean and std with shrinkage.
+2025-04-02 22:52:30,418 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 22:52:31,461 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 22:52:31,466 - INFO - Movie ID to index mapping created.
+2025-04-02 22:52:31,466 - INFO - Starting model evaluation.
+2025-04-02 22:57:52,250 - INFO - Logging initialized.
+2025-04-02 22:57:52,252 - INFO - Connected to SQLite database.
+2025-04-02 22:57:53,217 - INFO - Data loaded from CSV files.
+2025-04-02 22:59:12,556 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 22:59:15,428 - INFO - Labels created from ratings.
+2025-04-02 22:59:15,507 - INFO - Labels merged with movie metadata.
+2025-04-02 22:59:23,244 - INFO - Best parameters: {'alpha': np.float64(0.21666666666666667), 'fit_prior': True}
+2025-04-02 22:59:23,246 - INFO - Best CV score: 0.9398
+2025-04-02 22:59:23,246 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 22:59:23,454 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 22:59:23,890 - INFO - User ratings normalized using mean and std with shrinkage.
+2025-04-02 22:59:24,744 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 22:59:25,745 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 22:59:25,750 - INFO - Movie ID to index mapping created.
+2025-04-02 22:59:25,751 - INFO - Starting model evaluation.
+2025-04-02 23:12:28,806 - INFO - Predictions generated.
+2025-04-02 23:12:28,809 - INFO - Hybrid Model MAE: 3.3700
+2025-04-02 23:12:28,810 - INFO - Hybrid Model ROC AUC: 0.4881
+2025-04-02 23:12:28,810 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 23:12:28,811 - INFO - Database connection closed.
+2025-04-02 23:12:28,812 - INFO - Training process finished.
+2025-04-02 23:15:08,176 - INFO - Logging initialized.
+2025-04-02 23:15:08,178 - INFO - Connected to SQLite database.
+2025-04-02 23:15:09,250 - INFO - Data loaded from CSV files.
+2025-04-02 23:16:28,676 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 23:16:31,433 - INFO - Labels created from ratings.
+2025-04-02 23:16:31,503 - INFO - Labels merged with movie metadata.
+2025-04-02 23:16:39,224 - INFO - Best parameters: {'alpha': np.float64(0.21666666666666667), 'fit_prior': True}
+2025-04-02 23:16:39,225 - INFO - Best CV score: 0.9398
+2025-04-02 23:16:39,226 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 23:16:39,434 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 23:16:39,973 - INFO - User ratings normalized using mean and std with shrinkage.
+2025-04-02 23:18:13,254 - INFO - Logging initialized.
+2025-04-02 23:18:13,271 - INFO - Connected to SQLite database.
+2025-04-02 23:18:14,434 - INFO - Data loaded from CSV files.
+2025-04-02 23:18:59,975 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-02 23:19:02,832 - INFO - Labels created from ratings.
+2025-04-02 23:19:02,935 - INFO - Labels merged with movie metadata.
+2025-04-02 23:19:12,241 - INFO - Best parameters: {'alpha': np.float64(0.18333333333333335), 'fit_prior': True}
+2025-04-02 23:19:12,242 - INFO - Best CV score: 0.9396
+2025-04-02 23:19:12,243 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-02 23:19:12,462 - INFO - Rating matrix created for collaborative filtering.
+2025-04-02 23:19:13,325 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-02 23:19:14,335 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-02 23:19:14,339 - INFO - Movie ID to index mapping created.
+2025-04-02 23:19:14,340 - INFO - Starting model evaluation.
+2025-04-02 23:25:06,604 - INFO - Predictions generated.
+2025-04-02 23:25:06,605 - INFO - Hybrid Model MAE: 1.9410
+2025-04-02 23:25:06,606 - INFO - Hybrid Model ROC AUC: 0.5769
+2025-04-02 23:25:06,606 - INFO - Coverage (movies predicted): 0.1945
+2025-04-02 23:25:06,624 - INFO - Database connection closed.
+2025-04-02 23:25:06,625 - INFO - Training process finished.
+2025-04-07 21:53:24,235 - INFO - Logging initialized.
+2025-04-07 21:53:24,238 - INFO - Connected to SQLite database.
+2025-04-07 21:53:24,990 - INFO - Data loaded from CSV files.
+2025-04-07 21:54:00,904 - INFO - Text data preprocessed and vectorized using TF-IDF.
+2025-04-07 21:54:03,149 - INFO - Labels created from ratings.
+2025-04-07 21:54:03,233 - INFO - Labels merged with movie metadata.
+2025-04-07 21:54:11,393 - INFO - Best parameters: {'alpha': np.float64(0.18333333333333335), 'fit_prior': True}
+2025-04-07 21:54:11,396 - INFO - Best CV score: 0.9396
+2025-04-07 21:54:11,398 - INFO - Naive Bayes classifier retrained with optimal hyperparameters.
+2025-04-07 21:54:11,559 - INFO - Rating matrix created for collaborative filtering.
+2025-04-07 21:54:12,661 - INFO - SVD applied to rating matrix; item factors extracted.
+2025-04-07 21:54:13,823 - INFO - Item similarity matrix computed using SVD-transformed features.
+2025-04-07 21:54:13,826 - INFO - Movie ID to index mapping created.
+2025-04-07 21:54:13,835 - INFO - Starting model evaluation.
+2025-04-07 21:58:03,295 - INFO - Predictions generated.
+2025-04-07 21:58:03,296 - INFO - Hybrid Model MAE: 1.9410
+2025-04-07 21:58:03,296 - INFO - Hybrid Model ROC AUC: 0.5769
+2025-04-07 21:58:03,297 - INFO - Coverage (movies predicted): 0.1945
+2025-04-07 21:58:03,307 - INFO - Database connection closed.
+2025-04-07 21:58:03,307 - INFO - Training process finished.
